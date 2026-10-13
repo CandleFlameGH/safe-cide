@@ -25,7 +25,7 @@ self.__requestWorkerActivation = () => {
   return activationCheck;
 };
 
-importScripts("hs3ni/8gu9d1.js");
+importScripts("5pn2x/agv1v0.js");
 
 self.addEventListener("install", (event) => event.waitUntil(self.__requestWorkerActivation()));
 self.addEventListener("message", (event) => {
@@ -48,7 +48,7 @@ function skipProxy(url) {
 
 self.addEventListener("fetch", (event) => {
   if (skipProxy(event.request.url)) return;
-  if (_1hze0qg.shouldRoute(event)) {
-    event.respondWith(_1hze0qg.route(event));
+  if (_cpwt01j.shouldRoute(event)) {
+    event.respondWith(_cpwt01j.route(event));
   }
 });
