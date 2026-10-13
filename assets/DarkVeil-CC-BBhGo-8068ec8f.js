@@ -1,4 +1,4 @@
-import{r as d,j as W}from"./react-BNEptbwn-c3ce8b71.js";import{R as N,T as P,P as B,V as j,M as G}from"./ogl-BWe_HKY6-c3ce8b71.js";const V=`
+import{r as d,j as W}from"./react-BNEptbwn-8068ec8f.js";import{R as N,T as P,P as B,V as j,M as G}from"./ogl-BWe_HKY6-8068ec8f.js";const V=`
 attribute vec2 position;
 void main(){gl_Position=vec4(position,0.0,1.0);}
 `,k=`
