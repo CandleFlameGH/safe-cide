@@ -25,7 +25,7 @@ self.__requestWorkerActivation = () => {
   return activationCheck;
 };
 
-importScripts("equ4q/datyqq.js");
+importScripts("eedlk/3y26as.js");
 
 self.addEventListener("install", (event) => event.waitUntil(self.__requestWorkerActivation()));
 self.addEventListener("message", (event) => {
@@ -48,7 +48,7 @@ function skipProxy(url) {
 
 self.addEventListener("fetch", (event) => {
   if (skipProxy(event.request.url)) return;
-  if (_u806vei.shouldRoute(event)) {
-    event.respondWith(_u806vei.route(event));
+  if (_7lhdc9a.shouldRoute(event)) {
+    event.respondWith(_7lhdc9a.route(event));
   }
 });
