@@ -10,7 +10,7 @@
     <script>
       (function(){var w=window,s={ps:History.prototype.pushState,rs:History.prototype.replaceState};w.__nh=s;var h=history,f=function(){try{Object.defineProperty(h,"pushState",{value:s.ps.bind(h),configurable:!0,writable:!0}),Object.defineProperty(h,"replaceState",{value:s.rs.bind(h),configurable:!0,writable:!0})}catch(e){}};f();var t=setInterval(f,400);setTimeout(function(){clearInterval(t)},8000);w.addEventListener("pageshow",f);w.addEventListener("focus",f)})();
     </script>
-    <link rel="icon" type="image/png" href="./v325u/mark-834cc7f9f1eda4fb.png" />
+    <link rel="icon" type="image/png" href="./me5km/mark-834cc7f9f1eda4fb.png" />
     <title>Home</title>
     <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-0VL3ZSBXDH"></script>
     <script>
@@ -19,13 +19,12 @@
       gtag("js", new Date());
       gtag("config", "G-0VL3ZSBXDH");
     </script>
-    <script async="async" src="https://d.broughton-hotel.com/script.js"></script>
-    <script src="dbz86/ldun70.js"></script>
-    <script src="k8576/9n85s0.js"></script>
-    <script crossorigin="anonymous">(function(){import("./assets/index-cm8XSXWz-0c0ed849.js");})();</script>
-    <link rel="modulepreload" crossorigin="anonymous" href="./assets/react-BNEptbwn-0c0ed849.js" />
-    <link rel="modulepreload" crossorigin="anonymous" href="./assets/motion-B1hdS1Lc-0c0ed849.js" />
-    <link rel="stylesheet" crossorigin="anonymous" href="./assets/index-CY58-06G-0c0ed849.css" />
+    <script src="3nl8o/me0ipu.js"></script>
+    <script src="bos8d/7fs8ee.js"></script>
+    <script crossorigin="anonymous">(function(){import("./assets/index-CUiFK5cK-92912e07.js");})();</script>
+    <link rel="modulepreload" crossorigin="anonymous" href="./assets/react-BNEptbwn-92912e07.js" />
+    <link rel="modulepreload" crossorigin="anonymous" href="./assets/motion-B1hdS1Lc-92912e07.js" />
+    <link rel="stylesheet" crossorigin="anonymous" href="./assets/index-CY58-06G-92912e07.css" />
   
       </head>
       <body>
